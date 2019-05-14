@@ -1,0 +1,23 @@
+{
+  "name": "bilatserkva.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f1vlad/bilatserkva.com.git"
+  },
+  "author": "f1vlad",
+  "homepage": "https://f1vlad.github.io/bilatserkva.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f1vlad/bilatserkva.com/issues"
+  },
+  "homepage": "https://github.com/f1vlad/bilatserkva.com#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
